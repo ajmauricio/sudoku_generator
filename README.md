@@ -10,7 +10,7 @@ No other dependencies are required.
 Running the Program
 ===================
 
-To generate a new Sudoku cd into the appropriate directory and run `sudoku.py` by typing `python sudoku.py difficulty`. Difficulty may be replaced with either `easy`, `medium`, or `hard`. If no argument for difficulty is provided, the program defaults to `easy`.
+To generate a new Sudoku, cd into the appropriate directory and run `sudoku.py` by typing `python sudoku.py difficulty`. `difficulty` may be replaced with either `easy`, `medium`, or `hard`. If no argument for difficulty is provided, the program defaults to `easy`.
 
 Tests
 =====
